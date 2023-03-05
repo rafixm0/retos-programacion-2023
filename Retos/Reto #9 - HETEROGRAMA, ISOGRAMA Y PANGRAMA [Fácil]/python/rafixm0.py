@@ -46,7 +46,7 @@ def pangrama(texto):
         print("texto con letras distintas al idioma español.")
 
     
-
+    
 
 
 def heterograma(texto):
